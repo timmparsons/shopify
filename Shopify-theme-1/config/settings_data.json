@@ -900,11 +900,11 @@
             "hours": "<p>Mon - Fri, 10am - 9pm<br>Saturday, 11am - 9pm<br>Sunday, 11am - 5pm<\/p>",
             "address_heading": "Our Location",
             "heading_color": "#000",
-            "map_address": "1480 E Pecos Rd Gilbert, AZ 85295",
+            "map_address": "",
             "button_text": "Get directions",
             "text_position": "text_left",
             "background_color": "#ffffff",
-            "api_key": "AIzaSyDf7vkkNy9Rh_-sZ053LRd7CQAjLaUhBDw",
+            "api_key": "XXXXXXXX",
             "background_image": "shopify:\/\/shop_images\/full-moon-glow.jpg",
             "background_image_position": "center center"
           }
@@ -1415,11 +1415,11 @@
             "hours": "<p>Mon - Fri, 10am - 9pm<br>Saturday, 11am - 9pm<br>Sunday, 11am - 5pm<\/p>",
             "address_heading": "Our Location",
             "heading_color": "#000",
-            "map_address": "1480 E Pecos Rd Gilbert, AZ 85295",
+            "map_address": "",
             "button_text": "Get directions",
             "text_position": "text_left",
             "background_color": "#ffffff",
-            "api_key": "AIzaSyDf7vkkNy9Rh_-sZ053LRd7CQAjLaUhBDw",
+            "api_key": "XXXXXXXXXX",
             "background_image": "shopify:\/\/shop_images\/full-moon-glow.jpg",
             "background_image_position": "center center"
           }
@@ -1938,11 +1938,11 @@
             "hours": "<p>Mon - Fri, 10am - 9pm<br>Saturday, 11am - 9pm<br>Sunday, 11am - 5pm<\/p>",
             "address_heading": "Our Location",
             "heading_color": "#000",
-            "map_address": "1480 E Pecos Rd Gilbert, AZ 85295",
+            "map_address": "",
             "button_text": "Get directions",
             "text_position": "text_left",
             "background_color": "#ffffff",
-            "api_key": "AIzaSyDf7vkkNy9Rh_-sZ053LRd7CQAjLaUhBDw",
+            "api_key": "",
             "background_image": "shopify:\/\/shop_images\/full-moon-glow.jpg",
             "background_image_position": "center center"
           }
